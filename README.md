@@ -1,0 +1,2 @@
+# typing-competition
+Typing Score
